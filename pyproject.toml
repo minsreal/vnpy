@@ -1,5 +1,6 @@
 [project]
 name = "vnpy"
+version = "1.0.0"
 dynamic = ["version"]
 description = "A framework for developing quant trading systems."
 readme = "README.md"
